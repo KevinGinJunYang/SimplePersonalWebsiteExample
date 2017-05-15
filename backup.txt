@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<link rel = "stylesheet" type = "text/css" href="c1.css">
+</head>
+<body>
+<div class="center">
+
+	<div id="spacing">
+		<img src="images/IMG_0297.jpg">
+		<div id ="contactinfo" class ="vcard">
+		<h1 class = "fn">Kevin Yang</h1>
+			<p>
+			<strong>Phone:</strong><span class = "tel"> 0210220332</span><br />
+			<strong>Email:</strong> <a class = "email" href ="mailto:KevinYang@google.com"> KevinYang@google.com</a>
+			</p>	
+		</div>
+		
+	<div id = "aboutme">
+			<p>
+				I am a confident person who's willing to lean skillful techniques to grow and help those
+				around me. To strive and reach for the highest level is what i seek in my career.
+				My current skills and professions are being developed every day and with experience 
+				and help. I believe that we as a whole can improve our state of living as well as
+				the social benefits. 
+			</p>
+		</div>
+	<div class="space"></div>
+	<dl>
+	
+	
+	
+		<dd class="space"></dd>
+		
+		<dt class="skill">Interests</dt>
+		<dd>
+			<h2>Hobbies</h2>
+				<ul>
+					<li>Reading books</li>
+					<li>Researching and learning new platform languages</li>
+					<li>Playing badminton</li>
+					<li>Hiking
+				</ul>
+				
+			<h2>Interests</h2> 
+				<p> I have many interests that revolve around how the cyber
+					system works as a whole, the way it is constantly being evolved
+					and its benefits it produces to create new opporutnies is very 
+					intriguing to me. Other interests i have are:
+				</p>
+			<ul>
+				<li> Learning new programming systems and platforms </li>
+				<li> Creating games </li>
+				<li> Socialising with unquie interest groups </li>
+			</ul>
+			
+			<h2>Languages</h2>
+				<ol>
+					<li>English</li>
+					<li>Chinese</li>
+					<li>Japanese</li>		
+				</ol>
+			
+			
+				
+				
+		</dd>
+		
+		<div class="space"></div>
+		<dd>
+			<button onclick ="location.href='p2.html'">Next</button>
+		</dd>
+		
+	</dl>
+	<div class ="space"></div>
+	
+	</div>
+</div>
+</body>
+</html>
